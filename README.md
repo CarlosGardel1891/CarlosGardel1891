@@ -11,15 +11,23 @@
 
 
 
+<div align="center">
+  <div align="left">
+    <h1 align ="center">About Me<h1>
+    
+  - 👨‍💻 Hi! I'm Martín Castaldi, software developer & Systems student at ORT Uruguay.
+  - 🌎 Montevideo, Uruguay
+  - 🎓 Currently studying: Licenciatura en Sistemas @ ORT Uruguay
+  - 🚀 Main tech: C#, Python, JavaScript, SQL, MongoDB, .NET
+  - 🛠️ Tools: VSCode, Git, Docker, Rider
+  - 🌱 Learning: Entity Framework, Clean Code, testing automation
+  - 🤝 Values: Teamwork, curiosity, continuous learning
+  - 📌 Projects: [TaskTrackPro](https://github.com/tu_usuario/tasktrackpro) | [MiPortfolio](https://github.com/tu_usuario/miportfolio)
+  - 🎯 Goal: Grow as a backend/full stack dev and collaborate in open-source projects
+  - 📫 How to reach me: [martincastaldi12@gmail.com](mailto:martincastaldi12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/martin-castaldi-117986234/)
+  </div>
+</div>
 
-## About me
-
-
-- 📫 How to reach me: [martincastaldi12@gmail.com](mailto:martincastaldi12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/martin-castaldi-117986234/)
-
-
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 **Languages and Tools:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
