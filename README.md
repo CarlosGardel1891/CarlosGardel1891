@@ -6,10 +6,20 @@
 
 
 
+
+
+
+
+
+
 ## About me
+
 
 - 📫 How to reach me: [martincastaldi12@gmail.com](mailto:martincastaldi12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/martin-castaldi-117986234/)
 
+
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 **Languages and Tools:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
@@ -19,3 +29,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosGardel1891)](https://github.com/ryo-ma/github-profile-trophy)
