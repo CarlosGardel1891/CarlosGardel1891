@@ -8,7 +8,7 @@
 
 ## About me
 
-
+- 📫 How to reach me: [martincastaldi12@gmail.com](mailto:martincastaldi12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/martin-castaldi-117986234/)
 
 
 **Languages and Tools:**  
